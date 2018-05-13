@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+assets
+images
+node_modules
+out
+pixi-demo.iml
